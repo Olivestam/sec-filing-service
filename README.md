@@ -12,7 +12,7 @@ A data extraction service that fetches the latest 10-K Annual Reports from the S
 1. **Clone the repository**
 
    ```bash
-   git clone <YOUR_REPO_LINK>
+   git clone https://github.com/Olivestam/sec-filing-service.git
    cd sec-filing-service
    ```
 
